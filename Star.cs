@@ -1,6 +1,6 @@
 namespace UploadLargeFileNet8;
 
-public class WeatherForecast
+public class Star
 {
     public DateTime Date { get; set; }
 
