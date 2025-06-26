@@ -1,6 +1,6 @@
-## Remove the upload limit for file with .NET 8
+## Remove the upload limit for file with .NET 6
 
-This is a service for uploading large files with .NET 8. 
+This is a service for uploading large files with .NET 6. 
 <br>
 This repository is a copy of https://github.com/agustinafassina/UploadLargeFiles.
 
