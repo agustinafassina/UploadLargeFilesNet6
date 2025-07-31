@@ -1,4 +1,4 @@
-namespace UploadLargeFileNet8;
+namespace UploadLargeFilesNet6;
 
 public class Star
 {

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace UploadLargeFileNet8.Controllers;
+namespace UploadLargeFilesNet6.Controllers;
 
 [ApiController]
 [Route("[controller]")]

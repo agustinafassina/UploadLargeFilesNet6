@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "UploadLargeFileNet8": {
+    "UploadLargeFilesNet6": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
