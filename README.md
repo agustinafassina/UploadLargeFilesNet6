@@ -4,12 +4,29 @@ This is a service for uploading large files with .NET 6.
 <br>
 This repository is a copy of https://github.com/agustinafassina/UploadLargeFiles.
 
-### Run the service:
-To run the local service:
+## 📄API Reference
+#### Endpoint
 
+```http
+POST /Upload
 ```
-dotnet run
-``` 
+
+#### Get file
+
+```http
+GET /Upload?${fileName}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `fileName`      | `string` | **Required**. Filename |
+
+#### Run script with dotnet
+
+```bash
+  dotnet run
+```
+
 
 * http://localhost:5014/upload
 * https://localhost:7161/upload
